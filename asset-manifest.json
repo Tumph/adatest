@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/adatest/static/css/main.3c9bd924.css",
+    "main.js": "/adatest/static/js/main.c321d223.js",
+    "static/js/787.6262eb54.chunk.js": "/adatest/static/js/787.6262eb54.chunk.js",
+    "static/media/logo.svg": "/adatest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/adatest/index.html",
+    "main.3c9bd924.css.map": "/adatest/static/css/main.3c9bd924.css.map",
+    "main.c321d223.js.map": "/adatest/static/js/main.c321d223.js.map",
+    "787.6262eb54.chunk.js.map": "/adatest/static/js/787.6262eb54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c9bd924.css",
+    "static/js/main.c321d223.js"
+  ]
+}
